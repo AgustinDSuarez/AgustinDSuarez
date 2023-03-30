@@ -12,9 +12,9 @@ Creativo y detallista, hago de la programación una herramienta para resolver pr
 
 - 🌞 Argentino.
 - ♊ Geminiano.
-- 🌿 Hago música.
+- 🎸 Hago música.
 - 👨 👩 Me gusta debatir mis ideas y las del grupo de trabajo.
-- 📋 Podés leer mi [curriculum](/AgustinSuarez_CV.pdf)
+- 📑 Podés leer mi [curriculum](/AgustinSuarez_CV.pdf)
 
 ## ⚙️ Algunas herramientas que uso diariamente
 

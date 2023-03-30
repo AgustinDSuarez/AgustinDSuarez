@@ -6,7 +6,7 @@
 _Desarrollador FullStack e ilustrador._
 
 
-Creativo y detallista, hago de la programación una herramienta para resolver problemas. Me gusta el diseño y estar en constante aprendizaje. Si te gusta mi trabajo o estas buscando gente para sumar a tu equipo, **no dudes en contactarme**
+Creativo y detallista, hago de la programación una herramienta para resolver problemas. Me gusta el diseño y estar en constante aprendizaje. Si te gusta mi trabajo o estas buscando gente para sumar a tu equipo, **no dudes en contactarme**.
 
 ## 😊 Un poco sobre mi
 
@@ -14,7 +14,7 @@ Creativo y detallista, hago de la programación una herramienta para resolver pr
 - ♊ Geminiano.
 - 🐡 Me gustan los animales.
 - 👨 👩 Me gusta debatir mis ideas y las del grupo de trabajo.
-- 📘 Último libro que leí: *La verdadera historia de A Q por Lu Xun* 
+- 📘 Último libro que leí: *La verdadera historia de A Q por Lu Xun*.
 - 📑 Podés leer mi [curriculum](/AgustinSuarez_CV.pdf)
 
 ## ⚙️ Algunas herramientas que uso diariamente

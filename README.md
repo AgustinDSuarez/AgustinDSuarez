@@ -1,8 +1,8 @@
 ### 👋 Hola Mundo, soy [Agustín](https://github.com/agustinDsuarez)!  
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agustin-suarez)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-white?style=for-the-badge&logo=googlechrome&logoColor=black)](https://adsuarez.vercel.app)\
-\
+[![Portfolio](https://img.shields.io/badge/-Portfolio-white?style=for-the-badge&logo=googlechrome&logoColor=black)](https://adsuarez.vercel.app)
+
 _Desarrollador FullStack e ilustrador._
 
 

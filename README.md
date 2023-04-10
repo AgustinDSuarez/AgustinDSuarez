@@ -15,7 +15,7 @@ Creativo y detallista, hago de la programación una herramienta para resolver pr
 - 🐡 Me gustan los animales.
 - 👨 👩 Me gusta debatir mis ideas y las del grupo de trabajo.
 - 📘 Último libro que leí: *La verdadera historia de A Q por Lu Xun*.
-- 📑 Podés leer mi [curriculum](/AgustinSuarez_CV.pdf)
+- 📑 Podés leer mi [curriculum](/AgustinSuarezCV.pdf)
 
 ## ⚙️ Algunas herramientas que uso diariamente
 
